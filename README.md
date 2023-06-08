@@ -8,7 +8,6 @@ A sua aplicação deverá ser do tipo Web API ou MVC
 
 A sua classe principal, a classe de tarefa
 
-Armazenar as informações em Bancos de Dados
 
 
 ## Métodos esperados
