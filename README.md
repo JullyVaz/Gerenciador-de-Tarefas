@@ -6,7 +6,7 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obt
 
 A sua aplicação deverá ser do tipo Web API ou MVC
 
-A sua classe principal, a classe de tarefa
+A classe principal é a classe de tarefa
 
 
 
