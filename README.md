@@ -17,7 +17,7 @@ A classe principal é a classe de tarefa
 **Swagger**
 
 
-![Métodos Swagger](swagger.png)
+
 
 
 **Endpoints**
