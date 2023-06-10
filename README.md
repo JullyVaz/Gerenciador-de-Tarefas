@@ -14,7 +14,6 @@ A classe principal é a classe de tarefa
 É esperado que você crie o seus métodos conforme a seguir:
 
 
-**Swagger**
 
 
 
