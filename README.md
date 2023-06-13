@@ -4,7 +4,7 @@ Cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
 Essa lista de tarefas possui um CRUD, ou seja, permiti obter, criar, salvar e deletar os registros.
 
-A sua aplicação é do tipo MVC
+Essa aplicação é do tipo MVC
 
 A classe principal é a classe Tarefa
 
