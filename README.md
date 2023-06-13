@@ -2,11 +2,11 @@
 
 Cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
-Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
+Essa lista de tarefas possui um CRUD, ou seja, permiti obter, criar, salvar e deletar os registros.
 
-A sua aplicação deverá ser do tipo Web API ou MVC
+A sua aplicação é do tipo MVC
 
-A classe principal é a classe de tarefa
+A classe principal é a classe Tarefa
 
 
 
@@ -34,4 +34,4 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
   "status": "Pendente"
 }
 
-Projeto em desenvolvimento!
+
