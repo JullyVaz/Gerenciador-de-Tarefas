@@ -1,6 +1,6 @@
 # Gerenciador-de-Tarefas
 
-Cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
+Cadastra uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
 Essa lista de tarefas possui um CRUD, ou seja, permiti obter, criar, salvar e deletar os registros.
 
